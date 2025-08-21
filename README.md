@@ -50,16 +50,16 @@ Here are some of my highlighted works (to be updated):
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nargesalyhare&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=Nargesalyhare&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nargesalyhare&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Narges2017&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=Narges2017&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narges2017&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nargesalyhare&theme=darkhub&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Narges2017&theme=darkhub&row=1&column=6" alt="trophies" />
 </p>
 
 ---
