@@ -41,7 +41,7 @@
 
 ### 📌 Featured Projects  
 Here are some of my highlighted works (to be updated):  
-1. **Important Project 1** – *(coming soon)*  
+1. House-Sales-in-King-County-USA-Data-Science- (https://github.com/Narges2017/House-Sales-in-King-County-USA-Data-Science-Project.git)  
 2. **Important Project 2** – *(coming soon)*  
 3. **Important Project 3** – *(coming soon)*  
 
