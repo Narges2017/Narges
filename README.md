@@ -44,7 +44,7 @@
 1. [Customer Churn Prediction – Telco](https://github.com/Narges2017/customer-churn-prediction-telco)  
    End‑to‑end machine learning project using the Telco Customer Churn dataset to predict which customers are likely to leave and to identify key drivers of churn (contracts, charges, services).
 
-2. [House Price Prediction – Portfolio Project](https://github.com/Narges2017/house-price-prediction-portfolio) 
+2. [House Price Prediction – Portfolio Project]((https://github.com/Narges2017/house-price-prediction)
 3. Important Project 3 – (coming soon)
   
 
