@@ -46,7 +46,7 @@
 2. [House Price Prediction – Portfolio Project](https://github.com/Narges2017/house-price-prediction)  
    Regression model (Gradient Boosting) to predict house sale prices and analyze key price drivers.
 
-3. [NLP Sentiment Analysis](https://github.com/Narges2017/house-price-prediction)  
+3. [NLP Sentiment Analysis]((https://github.com/Narges2017/NLP-Sentiment-Analysis) 
   
 
 ---
