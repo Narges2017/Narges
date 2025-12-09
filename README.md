@@ -47,7 +47,7 @@
    Regression model (Gradient Boosting) to predict house sale prices and analyze key price drivers.
    
  3. [NLP Sentiment Analysis – IMDB Movie Reviews]((https://github.com/Narges2017/NLP-Sentiment-Analysis)
-**Natural Language Processing | TF-IDF | Text Classification**
+     Natural Language Processing | TF-IDF | Text Classification .
 
   
 
