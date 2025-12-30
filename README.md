@@ -48,7 +48,9 @@
    
 3. [NLP Sentiment Analysis – IMDB Movie Reviews](https://github.com/Narges2017/NLP-Sentiment-Analysis)
     Natural Language Processing | TF-IDF | Text Classification .
-   4. [Ecommerce_Sales_Analytics](https://github.com/Narges2017/Ecommerce_Sales_Analytics)
+   
+4. [Ecommerce_Sales_Analytics](https://github.com/Narges2017/Ecommerce_Sales_Analytics)
+    Business intelligence and SQL analytics project analyzing 2+ years of Brazilian e-commerce data to uncover revenue trends .
    
 
    
