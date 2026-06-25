@@ -43,16 +43,22 @@
 ### Featured Projects
 
 **1. [E-commerce ETL Pipeline with Medallion Architecture](https://github.com/Narges2017/E-commerce-ETL-Project)**  
-Designed and built a complete end-to-end ETL pipeline using Medallion Architecture (Bronze → Silver → Gold) on Microsoft Fabric Lakehouse. Applied PySpark for scalable transformations, Delta Lake for reliable storage with ACID transactions, and Kimball methodology for dimensional modeling into Star Schema.
+Built a complete end-to-end ETL pipeline using Medallion Architecture (Bronze → Silver → Gold) on Microsoft Fabric Lakehouse with PySpark and Delta Lake. Applied dimensional modeling (Star Schema) and Kimball methodology for analytics-ready data.
 
 **2. [End-to-End Flight Tracking Analytics Pipeline](https://github.com/Narges2017/Flight-Tracking-Data-Engineering--end-to-end-project)**  
-Developed a full data engineering solution on Microsoft Fabric Lakehouse. Implemented data ingestion using Dataflow Gen2, layered processing (Bronze/Silver/Gold), dimensional modeling with PySpark, and integrated Power BI for flight status and performance analytics.
+Developed a full data engineering solution on Microsoft Fabric. Implemented layered processing (Bronze/Silver/Gold), dimensional modeling with PySpark, and integrated Power BI dashboards for flight analytics and performance metrics.
 
 **3. [SQL Data Warehouse Project with Medallion Architecture](https://github.com/Narges2017/Sql-Data-Warehouse-Project)**  
-Built a modern data warehouse using Medallion Architecture with full ETL pipelines in SQL Server. Implemented incremental loading, data quality checks, Slowly Changing Dimensions (SCD), and dimensional modeling (Star/Snowflake schemas) for analytics-ready data.
+Built a modern data warehouse using Medallion Architecture in SQL Server. Implemented full ETL pipelines, incremental loading, Slowly Changing Dimensions (SCD), and dimensional modeling for business reporting.
 
-**4. [Ecommerce_Sales_Analytics](https://github.com/Narges2017/Ecommerce_Sales_Analytics)**  
-Business intelligence and data analytics project analyzing over 2 years of Brazilian e-commerce data. Built data transformation pipelines using Python and SQL to uncover revenue trends, category performance, seller metrics, and operational KPIs.
+**4. [Sql Data Analytics Project](https://github.com/Narges2017/Sql-Data-Analytics-Project-Main)**  
+Comprehensive SQL data analytics project focused on building robust data pipelines, transformations, and analytics workflows for business intelligence use cases.
+
+**5. [Job Market Analysis with Microsoft Fabric](https://github.com/Narges2017/job-market-fabric)**  
+Data engineering project analyzing job market data using Microsoft Fabric. Built end-to-end pipelines, data modeling, and analytics solutions on the Lakehouse architecture.
+
+**6. [Ecommerce_Sales_Analytics](https://github.com/Narges2017/Ecommerce_Sales_Analytics)**  
+Business intelligence project analyzing over 2 years of e-commerce data. Built data transformation pipelines using Python and SQL to extract revenue trends, category performance, and operational KPIs.
 
 ---
 
